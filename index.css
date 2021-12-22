@@ -1,0 +1,97 @@
+h2 {
+  margin-left: 34px;
+  text-decoration: overline;
+  color: lightcoral;
+}
+
+/* header  */
+
+nav {
+  width: 50%;
+  padding: 20px;
+  margin-left: 842px;
+}
+nav a {
+  margin: 30px;
+  color: rgba(32, 114, 114, 0.452);
+  text-decoration: none;
+  font-size: 20px;
+}
+nav a:hover {
+  color: yellow;
+}
+
+/* Home */
+
+#home img {
+  width: 19%;
+  height: 40%;
+  border-radius: 19px;
+  margin-left: 41%;
+  margin-top: 52px;
+}
+
+/*About*/
+#about,
+#home {
+  width: 100%;
+  margin: auto;
+}
+#about p {
+  display: inline-block;
+  width: 40%;
+  line-height: 2;
+  text-align: justify;
+  margin: 18px;
+  margin-left: 90px;
+  color: dimgrey;
+}
+
+/* exp */
+
+table,
+th,
+td {
+  border: 1px solid rgb(141, 143, 44);
+}
+
+table {
+  width: 80%;
+  margin: auto;
+}
+
+/*contact*/
+
+form {
+  width: 50%;
+  margin: auto;
+}
+form label {
+  margin-left: 172px;
+}
+
+form input {
+  margin-left: 26px;
+  margin-bottom: 12px;
+}
+
+#p {
+  margin-left: 1px;
+}
+
+form button {
+  background-color: yellowgreen;
+  margin-left: 42%;
+  width: 95px;
+  height: 29px;
+  border-radius: 5px;
+  border: none;
+}
+
+/*footer */
+
+footer {
+  padding: 25px;
+  text-align: center;
+  font-size: 19px;
+}
